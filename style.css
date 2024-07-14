@@ -22,8 +22,8 @@
 
 /* nav bar style  */
 .navbar{
-    display: flex;
+
 }
-.nav-links{
-    display: flex;
+.nav-item{
+    list-style: none;
 }
