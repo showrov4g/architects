@@ -11,3 +11,19 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* Share style  */
+.display-flex{
+    display: flex;
+}
+
+/* header style  */
+
+
+/* nav bar style  */
+.navbar{
+    display: flex;
+}
+.nav-links{
+    display: flex;
+}
