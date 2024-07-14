@@ -61,6 +61,7 @@
 /* navbar style finished */
 
 /* banner style  */
+
 .banner-content{
     max-width: 850px;
     margin: 0 auto;
@@ -70,4 +71,7 @@
 .brand-title{
     font-weight: 700;
     font-size: 4rem;
+}
+.banner img{
+    width: 100%;
 }
