@@ -30,6 +30,10 @@
 .navbar{
     justify-content: space-between;
 }
+.brand{
+    font-weight: 700;
+    font-size: 3rem;
+}
 .nav-item{
     list-style: none;
     margin-right: 30px;
