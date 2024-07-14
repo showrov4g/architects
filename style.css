@@ -12,7 +12,14 @@
 .display-flex{
     display: flex;
 }
-
+/* dark02 */
+.text-gray{
+    color: #424242;
+}
+/* dark03 */
+.text-light-gary{
+    color: #727272;
+}
 /* header style  */
 
 
@@ -27,4 +34,5 @@
 .nav-link{
     text-decoration: none;
     font-size: 18px;
+    font-weight: 500;
 }
