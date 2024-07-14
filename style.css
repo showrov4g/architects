@@ -25,7 +25,7 @@
 
 /* nav bar style  */
 .navbar{
-
+    justify-content: space-between;
 }
 .nav-item{
     list-style: none;
