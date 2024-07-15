@@ -142,7 +142,7 @@ main> section{
 .sponsor-info{
     max-width: 33.75rem;
     margin: 0 auto;
-    text-align: 50px center;
+    text-align: center;
 }
 
 /* responsive design  */
