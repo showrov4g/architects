@@ -83,6 +83,9 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+main> section{
+    margin-top: 5rem;
+}
 /* team team section style */
 .team{
     align-items: center;
@@ -90,6 +93,10 @@ main{
 .team-image-container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+.our-features{
+    margin-left: 3rem;
 }
 
 /* responsive design  */
