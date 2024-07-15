@@ -138,12 +138,25 @@ main> section{
 .fact-discription{
     max-width: 33.75rem;
 }
+/* fact are finished  */
+
 /* sponsor area style  */
 .sponsor-info{
     max-width: 33.75rem;
     margin: 0 auto;
     text-align: center;
 }
+.sponsors-company{
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-items: center;
+    
+}
+.sponsors-company img{
+    filter: grayscale(100%);
+}
+
 
 /* responsive design  */
 @media screen and (max-width: 576px) {
@@ -152,11 +165,14 @@ main> section{
     .team{
         flex-direction: column;
     }
-    .team-image-container, .facts-container{
+    .team-image-container, .facts-container,
+    .sponsors-company
+    {
         grid-template-columns: repeat(1, 1fr);
         gap: 1.5rem;
     }
-    .facts-container{
+    .facts-container,
+    .sponsors-company{
         justify-items: center;
     }
 }
