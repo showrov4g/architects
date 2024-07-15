@@ -138,6 +138,12 @@ main> section{
 .fact-discription{
     max-width: 33.75rem;
 }
+/* sponsor area style  */
+.sponsor-info{
+    max-width: 33.75rem;
+    margin: 0 auto;
+    text-align: 50px center;
+}
 
 /* responsive design  */
 @media screen and (max-width: 576px) {
