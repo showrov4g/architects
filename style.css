@@ -121,6 +121,9 @@ main> section{
     width: 240px;
     height: 240px;
     border-radius: 8px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 
