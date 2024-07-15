@@ -35,6 +35,9 @@
 }
 
 /* shared stile end  */
+header {
+    padding-bottom: 30px;
+}
 
 /* nav bar style  */
 .navbar{
