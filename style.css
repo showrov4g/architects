@@ -83,6 +83,14 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+/* team team section style */
+.team{
+    align-items: center;
+}
+.team-image-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
 
 /* responsive design  */
 @media screen and (max-width: 576px) {
