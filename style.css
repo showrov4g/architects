@@ -135,7 +135,9 @@ main> section{
     font-weight: 600;
     margin: 0;
 }
-
+.fact-discription{
+    max-width: 33.75rem;
+}
 
 /* responsive design  */
 @media screen and (max-width: 576px) {
